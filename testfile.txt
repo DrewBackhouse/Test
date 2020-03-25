@@ -3,3 +3,8 @@ this is a file.
 Conflict!
 
 hello!
+
+Goodbye
+
+
+bye
